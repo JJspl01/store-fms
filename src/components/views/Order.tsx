@@ -77,7 +77,7 @@ export default () => {
 
     return (
         <div>
-                <Heading heading="Orders" subtext="View purchase orders" tabs>
+                <Heading heading="Orders" subtext="View purchase orders">
                     <Package2 size={50} className="text-primary" />
                 </Heading>
                 
