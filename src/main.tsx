@@ -60,7 +60,7 @@ function GatedRoute({
 const routes: RouteAttributes[] = [
     {
         path: '',
-        name: 'Dashboard',
+        name: 'Dashboarddd',
         icon: <LayoutDashboard size={20} />,
         element: <Dashboard />,
         notifications: () => 0,
